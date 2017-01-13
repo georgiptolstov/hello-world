@@ -1,5 +1,4 @@
 # hello-world
-beginning github
 
 Switch up my style, I take any lane
 I switch up my cup, I kill any pain
